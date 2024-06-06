@@ -13,7 +13,7 @@
   <a href="mailto:milblue789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/milblue789">
+  <a href="https://www.reddit.com/user/DaliborStojanovic/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
