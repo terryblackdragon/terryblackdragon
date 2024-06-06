@@ -1,7 +1,7 @@
 [![bg][banner]][website]
 
 <p align="center">
-  <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
+  <a href="https://t.me/terry_black_dragon" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" />
   </a>
   <a href="https://hackerrank.com/milblue789" alt="HackerRank">
