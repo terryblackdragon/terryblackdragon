@@ -7,7 +7,7 @@
   <a href="https://hackerrank.com/milblue789" alt="HackerRank">
     <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
   </a>
-  <a href="https://stackoverflow.com/users/13870209/milblue789" alt="StackOverflow">
+  <a href="https://stackoverflow.com/users/24909915/dalibor-stojanovic" alt="StackOverflow">
     <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="mailto:milblue789@gmail.com">
