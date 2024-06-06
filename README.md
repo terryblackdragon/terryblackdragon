@@ -16,9 +16,6 @@
   <a href="https://www.reddit.com/user/DaliborStojanovic/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
 </p>
 
 # 💫 About Me 🌟
