@@ -1,23 +1,5 @@
 [![bg][banner]][website]
 
-<p align="center">
-  <a href="https://t.me/terry_black_dragon" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" />
-  </a>
-  <a href="https://hackerrank.com/milblue789" alt="HackerRank">
-    <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
-  </a>
-  <a href="https://stackoverflow.com/users/24909915/dalibor-stojanovic" alt="StackOverflow">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="mailto:milblue789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/DaliborStojanovic/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
-  </a>
-</p>
-
 # 💫 About Me 🌟
 
 <p>
